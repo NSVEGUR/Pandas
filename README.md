@@ -1,2 +1,1 @@
 # Pandas
-📘 Kaggle Course
